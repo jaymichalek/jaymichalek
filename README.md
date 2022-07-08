@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jaymichalek
-- 👀 I’m interested in Python and what it can do!
+- 👀 I’m interested in building healthcare solutions/innovation, and utilizing any tools that works best for the product!
 - 🌱 I’m currently learning Python with a focus on web development on my free time. Also learning C# for a newly accepted job offer.
 - 💞️ I’m looking to collaborate on solutions for real world healthcare problems.
 - 📫 Reach me at https://www.linkedin.com/in/jaymichalek/
